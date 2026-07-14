@@ -4,6 +4,12 @@ An LLM-powered pipeline that extracts key clauses (termination, confidentiality,
 liability) and generates concise summaries from legal contracts in the
 [CUAD (Contract Understanding Atticus Dataset)](https://www.atticusprojectai.org/cuad).
 
+## Output 
+<img width="1920" height="1080" alt="image (1)" src="https://github.com/user-attachments/assets/f3074dd5-5732-4565-895b-ea0d4f567049" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97ce1df3-4b96-4c74-a610-8141ff346c2a" />
+
+
+
 ## Overview
 
 Given a folder of contract PDFs, the pipeline:
