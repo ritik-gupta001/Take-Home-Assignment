@@ -1,0 +1,952 @@
+[
+  {
+    "contract_id": "ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT",
+    "summary": "The agreement grants ADAMS GOLF the exclusive right to use professional golfer Tom Watson's name, likeness, and endorsement for promoting its golf products. Watson must exclusively use specified ADAMS GOLF products during professional events and cannot endorse competing products. ADAMS GOLF is obligated to provide Watson with necessary products and pay a base compensation, with potential performance bonuses based on his achievements.\n\nNotable risks include Watson's obligation to repay a portion of his compensation if he fails to meet a minimum number of tournament appearances. Additionally, either party can terminate the agreement for material breaches, with Watson required to repay for unfulfilled contract periods. ADAMS GOLF may also terminate if Watson's conduct diminishes the value of his endorsement. Both parties indemnify each other against liabilities arising from breaches of the agreement.",
+    "termination_clause": {
+      "found": true,
+      "text": "if either party commits any material breach of this Agreement, the other party may terminate for cause upon giving fifteen (15) days written notice of such cause and provided the breach is not rectified within such fifteen (15) day period.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "both parties agree not to disclose the terms of this Agreement, without the permission of the other party, to any third party other than to CONSULTANT'S business, legal and financial advisors, and with respect to all such advisors, CONSULTANT shall take all reasonable steps to ensure such confidentiality to ADAMS GOLF.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "CONSULTANT agrees to protect, indemnify and hold ADAMS GOLF harmless from any and all liability, claims, causes of action, suits, damages and expenses (including reasonable attorneys' fees and expenses) for which it becomes liable or is compelled to pay by reason of a breach of any covenant or representation by CONSULTANT in this Agreement.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement",
+    "summary": "The Joint Content License Agreement establishes a cooperative marketing and licensing relationship between WPT Enterprises, Inc. and Zynga Inc. to promote each other's brands through various gaming platforms. Zynga is obligated to pay WPT an annual minimum guarantee of $3 million and a 10% royalty on net revenue from WPT-branded content. WPT must promote Zynga's brand at its tournaments, while Zynga will create a WPT-branded tournament mode in its games. Notable risks include potential breaches of contract, which could lead to termination and liability for damages. Each party indemnifies the other against third-party claims arising from breaches of their respective obligations. The agreement also limits liability for indirect damages and specifies that both parties must maintain adequate insurance coverage.",
+    "termination_clause": {
+      "found": true,
+      "text": "Each party shall have the right at any time to terminate this Agreement without prejudice to any rights which it may have, whether pursuant to the provisions of this Agreement or otherwise in law or in equity or otherwise, upon the occurrence of any one or more of the following events: i. The other party breaches or fails to perform any of its material obligations provided for in this Agreement; ii. The other party is unable to pay its debts when due, or makes any assignment for the benefit of creditors, or files any petition under the bankruptcy or insolvency laws of any jurisdiction, county or place, or has or suffers a receiver or trustee to be appointed for its business or property, or is adjudicated a bankrupt or an insolvent; or iii. The other party asserts any rights in or to the terminating party's intellectual property in violation of this Agreement.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "The parties acknowledge and agree that the subject matter of this Agreement constitutes \"Business Purpose\" and this Agreement and any Exhibits hereunder are \"Confidential Information\" of the parties as defined as \"Information\" in the Non-Disclosure Agreement between the parties dated August 24, 2017, and accordingly the restrictions relating to confidentiality and use thereof provided in the Non-Disclosure Agreement apply to any party's Confidential Information disclosed pursuant to this Agreement.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "EXCEPT IN CASES OF GROSS NEGLIGENCE, WILLFUL MISCONDUCT OR FRAUD, INDEMNIFICATION CLAIMS UNDER SECTION 5 OR BREACHES OF SECTION 2 (TRADEMARKS), 8 (CONFIDENTIALITY), OR 9 (NO AGENCY RELATIONSHIP), IN NO EVENT SHALL EITHER PARTY OR ITS OFFICERS, DIRECTORS, OR EMPLOYEES BE LIABLE TO THE OTHER PARTY IN CONNECTION WITH THE SUBJECT MATTER HEREOF, FOR ANY SPECIAL, INDIRECT, CONSEQUENTIAL OR PUNITIVE DAMAGES OF ANY KIND, LOST PROFITS OR LOST REVENUE, WHETHER ARISING IN CONTRACT, TORT, NEGLIGENCE, STATUTE, OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY THEREOF.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "BNCMORTGAGEINC_05_17_1999-EX-10.4-LICENSING AND WEB SITE HOSTING AGREEMENT",
+    "summary": "The Licensing and Website Hosting Agreement establishes a partnership between Mortgage Logic.com, Inc. (Client) and TrueLink, Inc. (TrueLink) for access to TrueLink's interface software and related support services. TrueLink is obligated to provide the Client with a non-exclusive license to use the interface, hosting services, and technical support, while the Client must comply with applicable laws and maintain confidentiality regarding proprietary information. Notable risks include potential liability for breaches of the agreement, particularly concerning the use of credit data and content posted on the website. Both parties agree to indemnify each other for claims arising from breaches of the agreement. TrueLink's liability is limited to the total compensation paid for services in the preceding 12 months, and the agreement can be terminated with written notice, subject to specific conditions.",
+    "termination_clause": {
+      "found": true,
+      "text": "TrueLink will continue to provide the requested Hosting Services and Support Services until the last day of the month following the month in which Client provides TrueLink with a written notice of its election to terminate this Agreement.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "Client acknowledges its responsibility to preserve the confidentiality of certain technology, information, and documentation embedded in the Interface and agrees to respect the confidential nature of the Interface.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "IN NO EVENT SHALL TRUELINK'S LIABILITY FOR ANY MATTER ARISING UNDER OR RELATED TO SECTION 3, 4, 7 AND 11 THIS AGREEMENT (OTHER THAN DUE TO A BREACH RESULTING FROM TRUELINK'S GROSS NEGLIGENCE OR WILLFUL MISCONDUCT) EXCEED THE TOTAL COMPENSATION PAID FOR HOSTING AND SUPPORT SERVICES OVER THE IMMEDIATELY PRECEDING 12 MONTHS PERIOD.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT",
+    "summary": "The Agency Agreement establishes a partnership between The Bon-Ton Stores, Inc. (Merchant) and GA Retail, Inc. and Tiger Capital Group, LLC (Agent) for the sale of Merchant's assets during its Chapter 11 bankruptcy. Merchant appoints Agent as its exclusive agent to conduct a \"going out of business\" sale, including selling merchandise, furniture, and real estate. Merchant must provide necessary cooperation and maintain records, while Agent is responsible for executing the sale and covering related expenses.\n\nKey risks include potential claims against Merchant, which Agent is not liable for unless specified. If Agent terminates the sale early, it must provide a seven-day notice, continuing to pay certain expenses until the termination date. Additionally, any proceeds from the sale are held in trust for Agent, and Merchant must comply with the Wind-Down Budget to manage expenses effectively.",
+    "termination_clause": {
+      "found": true,
+      "text": "Agent may, in its discretion, earlier terminate the GOB Sale on a Store-by- Store basis upon not less than seven (7) days' prior written notice (a \"Vacate Notice\") to Merchant (the \"Vacate Date\"), provided, that it being understood that Agent's obligations to pay all Expenses, including Occupancy Expenses, for each Store subject to a Vacate Notice shall continue until the applicable Vacate Date, provided, however, that, with respect to Occupancy Expenses, Agent's obligations to pay all Occupancy Expenses for each Store shall continue until the last day of the calendar month in which the Vacate Date occurs for such Store.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "Purchaser shall not be liable for any claims against Merchant except as expressly provided for in this Agreement.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT",
+    "summary": "The Joint Venture Agreement establishes a partnership between BorrowMoney.com, Inc. and JVLS, LLC to jointly invest in IT development and medical service deployment. BorrowMoney.com is responsible for technical requirements, while JVLS will contribute $60,000 monthly from awarded contracts and 10% of generated gross revenue. Each member must fulfill their capital contributions and cannot withdraw without unanimous consent. Notable risks include potential liability for harm caused by a member's actions, with indemnification provisions in place. The agreement allows for dissolution under specific conditions, including expiration of the term or unanimous member vote. Members are protected from liability for good faith actions but are liable for gross negligence or willful misconduct. Confidentiality and conflict of interest provisions are included, and disputes will be resolved through mediation and arbitration in Florida.",
+    "termination_clause": {
+      "found": true,
+      "text": "the remaining Members will have the right to terminate this Agreement with regard to that individual defaulting Member (an \"Involuntary Withdrawal\")",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "All matters relating to this Agreement and the Venture will be treated by the Members as confidential and no Member will disclose or allow to be disclosed any Venture matter or matters, directly or indirectly, to any third party without the prior written approval of all Members except where the information properly comes into the public domain.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "Each Member will be indemnified and held harmless by the Venture from any and all harm or damages of any nature relating to the Member's participation in Venture affairs except where such harm or damages results from gross negligence or willful misconduct on the part of the Member.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT",
+    "summary": "The Web Site Hosting Agreement establishes a relationship between Centrack International (Customer) and i-on interactive (Provider) for hosting the Customer's website. i-on is obligated to maintain continuous operation of the hosted site, provide internet connectivity, and perform necessary maintenance, while the Customer must pay a monthly fee of $450 by the 5th of each month and is responsible for all content and user support related to the site. Notable risks include potential service interruptions and data loss, for which i-on is not liable, provided it follows agreed protocols. The Customer indemnifies i-on against claims arising from its use of the services. The agreement can be terminated by either party with 30 days' notice, but the Customer remains liable for all fees due upon termination. Liability for damages is limited to one month's fees.",
+    "termination_clause": {
+      "found": true,
+      "text": "Either party may terminate this Agreement without cause at any time effective upon thirty (30) days' written notice.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "i-on will not be liable under any circumstances for any lost profits or other consequential damages, even if i-on has been advised as to the possibility of such damages. i-on's liability for damages to the Customer for any cause whatsoever, regardless of the form of action, and whether in contract or in tort, including negligence, shall be limited to one (1) month's fees and the remaining portion of any prepaid fees.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement",
+    "summary": "The Intellectual Property Agreement between Nuance Communications, Inc. and Cerence Inc. outlines the transfer and licensing of intellectual property rights in connection with a corporate spin-off. Nuance grants Cerence licenses to use its patents and technology for specific business applications, while Cerence reciprocates by granting similar rights to Nuance for its intellectual property. Each party must respect the other's ownership and not impair their rights. Notable risks include limitations on liability, where neither party is liable for indirect or consequential damages. The agreement can only be terminated by mutual consent, and confidentiality obligations are imposed on both parties regarding proprietary information. Breaches may lead to specific performance claims, emphasizing the importance of compliance with the agreement's terms.",
+    "termination_clause": {
+      "found": true,
+      "text": "Section 9.01. Termination by Both Parties. Subject to Section 9.02, this Agreement may not be terminated except by an agreement in writing signed by a duly authorized officer of each of the Parties.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "Section 6.01. Confidentiality. Without limiting Section 6.02, all confidential information of a Party disclosed to the other Party under this Agreement shall be deemed confidential and proprietary information of the disclosing Party, shall be subject to the provisions of Section 7.09 of the Separation Agreement and may be used by the Receiving Party pursuant to this Agreement for the sole and express purpose of effecting the licenses granted herein.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "Section 7.01. Limitation on Liability. Without limiting the terms set forth in Section 6.09 of the Separation Agreement, none of Nuance, SpinCo or any other member of either Group shall in any event have any Liability to the other or to any other member of the other's Group under this Agreement for any indirect, special, punitive or consequential damages, whether or not caused by or resulting from negligence or breach of obligations hereunder and whether or not informed of the possibility of the existence of such damages.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "CHERRYHILLMORTGAGEINVESTMENTCORP_09_26_2013-EX-10.1-Strategic Alliance Agreement",
+    "summary": "The Strategic Alliance Agreement establishes a partnership between Freedom Mortgage Corporation and Cherry Hill Mortgage Investment Corp. to enhance their business operations. Freedom Mortgage will provide Cherry Hill with a consistent source of mortgage loans, while Cherry Hill will offer liquidity through capital raised from securities offerings. Key obligations include Freedom Mortgage's responsibility to service the mortgage loans and Cherry Hill's commitment to cooperate in executing necessary agreements with Ginnie Mae. Notable risks include potential penalties for Freedom Mortgage if it fails to designate a Standby Issuer upon a Standby Trigger Event, which could lead to financial losses for Cherry Hill. Additionally, either party may terminate the agreement for material breaches, which does not absolve the breaching party from prior liabilities. The agreement is governed by New York law, and both parties waive the right to a jury trial in disputes.",
+    "termination_clause": {
+      "found": true,
+      "text": "(b) In the event that a party materially breaches any representation or covenant herein, the other party may give written notice of the breach requiring the same to be remedied within 30 days of receipt of such notice. If the breaching party fails to remedy the material breach in such time period, the non-breaching party may terminate this Agreement by delivery of a written termination notice to the breaching party.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "(d) The Purchase Agreement will provide that Freedom Mortgage will indemnify Cherry Hill against, and hold it harmless from, any loss, cost or expense incurred by Cherry Hill as a result of Ginnie Mae's termination for cause of Freedom Mortgage as an issuer.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement",
+    "summary": "The Domain Name and Content License Agreement establishes a licensing arrangement between Beijing SINA Internet Information Service Co., Ltd. (Licensor) and Beijing Yisheng Leju Information Services Co., Ltd. (Licensee) for the use of specific domain names and content related to an online real estate media platform in China. Licensor grants Licensee an exclusive, non-transferable license to use the Licensed Domain Names and Licensed Content without fees, while Licensee is responsible for compliance with laws and content monitoring.\n\nKey obligations include Licensee's duty to remove offending content promptly and ensure compliance with applicable laws. Notable risks include potential penalties for non-compliance with content regulations, and both parties face liability for breaches of the agreement. Termination can occur for bankruptcy, material breaches, or changes in control, with specific provisions for transitioning post-termination.",
+    "termination_clause": {
+      "found": true,
+      "text": "6.2. Termination for Bankruptcy. Either Party may immediately terminate this Agreement in the event that the other Party (a) becomes insolvent or unable to pay its debts as they mature; (b) makes an assignment for the benefit of its creditors; (c) seeks relief, or if proceedings are commenced against such other Party or on its behalf, under any bankruptcy, insolvency or debtors' relief law and such proceedings have not been vacated or set aside within seven (7) days from the date of commencement thereof.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "9.1. Confidential Information. In performing its obligations under this Agreement, either Party (the \"Recipient\") may obtain certain Confidential Information of the other Party. For purposes of this Agreement, \"Confidential Information\" shall mean information, documents and other tangible things, provided by either Party to the other, in whatever form, relating to such Party's business and marketing, including such Party's financial information, personal information, customer lists, product plans and marketing plans, whether alone or in its compiled form and whether marked as confidential or not.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "8.1. Indemnification by Licensor. Licensor shall defend, indemnify and hold harmless Licensee and its Affiliates, and their respective officers, directors, employees, agents, shareholders, successors and assigns, (collectively, the \"Licensee Parties\") from and against any claim, suit, demand or action (\"Action\"), and any and all direct losses suffered or incurred by Licensee in connection with any third party claims arising out of or resulting from any breach by Licensor of any provision of this Agreement.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+    "summary": "The License and Hosting Agreement between Corio Inc. and Commerce One Inc. allows Corio to license and host Commerce One's proprietary software for its customers. Corio is obligated to pay license and maintenance fees, provide technical support to its customers, and ensure compliance with the software's usage terms. Commerce One must deliver the software, provide updates, and support services as outlined in the agreement.\n\nNotable risks include potential liability for software infringement claims, with Commerce One agreeing to indemnify Corio against such claims. If the software fails to meet performance standards, Corio can terminate the agreement and seek a refund. Additionally, both parties face limitations on liability, capping damages to the fees paid in the preceding year and excluding indirect or consequential damages. The agreement also includes confidentiality provisions and conditions for termination.",
+    "termination_clause": {
+      "found": true,
+      "text": "If either party materially breaches any term or condition of this Agreement and fails to cure such breach within-thirty (30) days after receiving written notice of the breach, the nonbreaching party may terminate this Agreement on written notice at any time following the end of such-thirty (30) day period.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "Each party hereby agrees that it shall not use any Confidential Information received from the other party other than as expressly permitted under the terms of a non-disclosure agreement to be concurrently executed with this Agreement.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "EXCEPT FOR LIABILITY ARISING UNDER SECTION 8 OF THIS AGREEMENT, IN NO EVENT SHALL EITHER PARTY'S LIABILITY ARISING OUT OF THIS AGREEMENT OR THE USE OR PERFORMANCE OF THE SOFTWARE EXCEED THE TOTAL AMOUNT ACTUALLY PAID BY CORIO HEREUNDER FOR THE TRANSACTION WHICH THE LIABILITY RELATES TO DURING THE TWELVE (12) MONTHS IMMEDIATELY PRIOR TO THE FILING OF THE CAUSE OF ACTION TO WHICH THE LIABILITY RELATES.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+    "summary": "The Chase Affiliate Agreement establishes the terms for affiliates to promote Chase credit cards through their websites. Affiliates must submit a registration form to join the program and can earn fees for each approved credit card account generated via their links. Key obligations include maintaining approved links, adhering to content restrictions, and not misrepresenting Chase. Chase reserves the right to reject applications or terminate the agreement for violations, including the use of restricted content or unauthorized marketing practices. Notable risks include potential liability for breaches of the agreement, with affiliates required to indemnify Chase for any claims arising from their actions. Additionally, Chase limits its liability to the total commissions paid to the affiliate, and affiliates must comply with confidentiality and trademark usage requirements.",
+    "termination_clause": {
+      "found": true,
+      "text": "Either Affiliate or Chase may terminate this Agreement at any time, with or without cause, by giving the other party written or e-mail notice of termination.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "Except as otherwise provided in this Agreement or with the consent of the other party hereto, each of the parties hereto agrees that all information including, without limitation, the terms of this Agreement, business and financial information, customer and vendor lists, and pricing and sales information, concerning Chase, Customer or Affiliate shall remain strictly confidential and secret and shall not be utilized, directly or indirectly, by such party for its own business purposes or for any other purpose except and solely to the extent necessary to exercise rights and perform obligations under this Agreement.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "Chase shall have no liability for any indirect, incidental, special or consequential damages or any loss of revenue or profits arising under or with respect to this Agreement or the Affiliate Program, regardless of whether Chase has been advised of the possibility of such damages. Further, Chase's aggregate liability arising under or with respect to this Agreement or the Affiliate Program shall in no event exceed the total Commissions paid or payable by Chase to Affiliate under this Agreement.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "CUROGROUPHOLDINGSCORP_05_04_2020-EX-10.3-SERVICING AGREEMENT",
+    "summary": "The Servicing Agreement between CURO Receivables Finance II, LLC (Owner) and CURO Management, LLC (Servicer) outlines the Servicer's responsibilities in managing and servicing the Owner's receivables. The Servicer must perform its duties with reasonable care and in compliance with applicable laws, while the Owner is obligated to provide necessary documentation and indemnify the Servicer against certain liabilities, except in cases of the Servicer's misconduct. Notable risks include potential penalties for the Servicer if it fails to meet its obligations, which could lead to termination of the agreement. The Owner can remove the Servicer for defaults or insolvency, and the Servicer must assist in transitioning duties to a successor if terminated. The agreement also limits the Servicer's liability, protecting it from claims arising from good faith actions, while ensuring it remains accountable for breaches of contract or negligence.",
+    "termination_clause": {
+      "found": true,
+      "text": "(a) This Agreement shall continue in force until the earlier to occur of (i) the Owner no longer owns any Receivables or Participation Interests, and (ii) subject to Section 7(d), the delivery of written notice of termination by the Owner to the Servicer pursuant to Section 7(c), in each case upon which event this Agreement shall automatically terminate unless otherwise agreed in writing between the Servicer and the Owner.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "(a) Except as provided in Section 13(b), neither the Servicer nor any of the directors, officers, partners, members, managers, employees, or agents of the Servicer in its capacity as Servicer shall be under any liability to the Owner or any other Person for any action taken or for refraining from the taking of any action in good faith in its capacity as Servicer in accordance with this Agreement; provided, however, that this provision shall not protect the Servicer or any such Person against contractual liability under this Agreement for any breach of warranties or representations made herein, or any failure to perform any express contractual duties set forth herein, or any liability which would otherwise be imposed by reason of willful misfeasance, bad faith or negligence in the performance of its duties hereunder.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT",
+    "summary": "The Promotion Agreement between CNET, Inc. and Cyberian Outpost, Inc. aims to enhance the promotion of Cyberian's products through various online and television channels provided by CNET. CNET is obligated to deliver specific advertising promotions, including TV spots and online banners, while ensuring a minimum number of Retail Impressions over the contract term. Cyberian must maintain its website's functionality and provide accurate reporting on sales generated from CNET's promotions.\n\nNotable risks include potential penalties for failing to meet performance standards, which could be deemed a material breach. Each party indemnifies the other against third-party claims arising from breaches of their respective obligations. Liability is limited, excluding special or consequential damages. The agreement allows for termination with notice and includes confidentiality provisions regarding sensitive information.",
+    "termination_clause": {
+      "found": true,
+      "text": "(a) either party may terminate this Agreement, effective at any time after the first three months of the Term, by giving 30 days' written notice of termination to the other party, and (b) either party may terminate this Agreement at any time by giving written notice of termination to the other party, if the other party commits a material breach of its obligations hereunder that is not cured within 30 days after notice thereof from the non-breaching party.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "The material terms of this agreement and any information exchanged in connection herewith shall be covered by the Non-Disclosure Agreement between CNET and the Company dated December 5, 1997 (the \"NDA\"). Notwithstanding the foregoing the following information will not be considered \"Confidential Information\" for purposes of the NDA provided that such information is not publicly identified as belonging to or coming from the Company: (a) information contained in the reports described in Section 3.2, (b) the names and e-mail addresses referenced in Section 3.4 and (c) any information obtained by CNET from Users who affirmatively request to be added to an e-mail newsletter pursuant to Section 3.5.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "NEITHER PARTY WILL BE LIABLE FOR ANY SPECIAL, INDIRECT, CONSEQUENTIAL OR INCIDENTAL DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE), AND EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "CytodynInc_20200109_10-Q_EX-10.5_11941634_EX-10.5_License Agreement",
+    "summary": "The Commercialization and License Agreement between Vyera Pharmaceuticals and CytoDyn establishes Vyera's exclusive rights to commercialize CytoDyn's drug candidate, leronlimab, for treating HIV, following regulatory approval. Vyera is obligated to use commercially reasonable efforts to market the product, while CytoDyn must provide necessary support and maintain patent rights. Notable risks include potential penalties for Vyera if it fails to meet commercialization targets or if a change of control occurs, requiring divestiture of competitive products. Liability exposure includes losses and damages incurred by either party due to their performance under the agreement. Confidentiality is emphasized, with both parties required to protect proprietary information, including the agreement's terms.",
+    "termination_clause": {
+      "found": true,
+      "text": "Vyera shall either: (a) within ninety (90) days after the closing of such Change of Control, enter into a binding written agreement to sell, transfer, assign or divest all of Vyera's and/or its Affiliate's rights in and to such Competitive Product to a non-Affiliate Third Party and consummate such sale, transfer, assignment or divestiture of said rights not later than ninety (90) days following the date of the binding Agreement; or (b) within six (6) months after the closing of such Change of Control, terminate any and all Development, Manufacturing, Commercialization and/or other exploitation of such Competitive Product; or (c) terminate this Agreement in accordance with Section 11.2(c).",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "Confidential Information shall include the terms and conditions of this Agreement.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "Liability or Liabilities means losses, damages, fees, costs and other liabilities incurred by a Party related to such Party's performance or conduct, or by virtue of being a \"Party\", under this Agreement.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "DOMINIADVISORTRUST_02_18_2005-EX-99.(H)(2)-SPONSORSHIP AGREEMENT",
+    "summary": "The Sponsorship Agreement establishes a relationship between Domini Advisor Trust and Domini Social Investments LLC, where Domini provides oversight, administrative, and management services to the Trust. Domini's key obligations include maintaining office facilities, supervising the Trust's administration, ensuring compliance with laws, and managing communications with shareholders. The Trust is responsible for its operating expenses and compensating Domini at an annual rate of 0.50% of its average daily net assets.\n\nNotable risks include Domini's limited liability for errors, which only applies in cases of willful misconduct or gross negligence. The agreement allows for termination with 60 days' notice by either party without penalty. Domini may subcontract its obligations but remains liable for the actions of any subcontractors. The agreement is governed by Massachusetts law and includes provisions for severability and notice requirements.",
+    "termination_clause": {
+      "found": true,
+      "text": "This Agreement may be terminated at any time, without the payment of any penalty, with respect to any series or the Trust, by the Board of Trustees of the Trust, or by the Sponsor, in each case on not less than 60 days' written notice to the other party.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "The Sponsor shall not be liable for any error of judgment or mistake of law or for any act or omission in the oversight, administration or management of the Trust or the performance of its duties hereunder, except for willful misfeasance, bad faith or gross negligence in the performance of its duties, or by reason of the reckless disregard of its obligations and duties hereunder.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement",
+    "summary": "The Co-Promotion Agreement between Dova Pharmaceuticals and Valeant Pharmaceuticals aims to collaboratively promote a specific pharmaceutical product in the U.S. Dova grants Valeant co-exclusive rights to detail and market the product, while retaining overall control of manufacturing, distribution, and regulatory matters. Valeant is responsible for conducting promotional activities and maintaining a minimum number of sales representatives. \n\nKey risks include potential penalties for non-compliance with promotional regulations and the obligation to indemnify each other for claims arising from their respective actions. The agreement includes confidentiality provisions to protect proprietary information and limits liability for damages, ensuring that neither party is liable for indirect or consequential losses. Termination clauses allow for early termination under specific conditions, impacting ongoing obligations and rights.",
+    "termination_clause": {
+      "found": true,
+      "text": "12.2 Early Termination for Cause.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "1.16 \"Confidential Information\" shall mean all secret, confidential, non-public or proprietary Know-How, whether provided in written, oral, graphic, video, computer or other form, provided by or on behalf of one Party to the other Party pursuant to this Agreement, including information relating to the disclosing Party's existing or proposed research, development efforts, promotional efforts, regulatory matters, patent applications or business and any other materials that have not been made available by the disclosing Party to the general public.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "11.4 Limitation of Liability.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "ENERGOUSCORP_03_16_2017-EX-10.24-STRATEGIC ALLIANCE AGREEMENT",
+    "summary": "The Strategic Alliance Agreement establishes a partnership between Dialog Semiconductor (DIALOG) and Energous Corporation (ENERGOUS) to collaborate on the distribution and development of ENERGOUS's wire-free charging technology. DIALOG is responsible for marketing and selling the licensed products, while ENERGOUS will provide technical support and product updates. Both parties must adhere to confidentiality obligations regarding proprietary information.\n\nNotable risks include potential liability for product defects, with ENERGOUS indemnifying DIALOG against claims related to product use, including bodily injury. If DIALOG discontinues sales of any product, it must notify ENERGOUS in advance, which may affect exclusivity rights. Additionally, failure to meet service levels may result in the suspension of service fee payments. The agreement emphasizes the importance of compliance with product specifications to mitigate liability exposure.",
+    "termination_clause": {
+      "found": true,
+      "text": "If DIALOG decides to discontinue Sales of any Product, it will notify ENERGOUS at least [***] prior to such discontinuance, and following such notification, the exclusivity rights, if any, associated with that Product will cease; provided, however, this provision will not apply in the event that DIALOG continues Sales of Product Updates, repackaged Product Dies or MCMs.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "The term \"Confidential Information\" means all financial, business and technical information disclosed by or on behalf of a party in relation to this Agreement (whether tangible or intangible, and including all copies, analyses and derivatives thereof), that is marked or otherwise identified as proprietary or confidential at the time of disclosure, or which by its nature would be understood by a reasonable person to be proprietary or confidential, including all copies, abstracts, summaries, analyses and derivatives thereof.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "ENERGOUS agrees to indemnify, hold harmless and, in the case of any third party claims, defend DIALOG and its Affiliates and each of their respective directors, officers, employees, contractors, agents, distributors and customers (collectively, \"DIALOG Indemnitees\") from and against and in respect of any and all alleged or actual demands, claims, actions, causes of action, suits or proceedings, assessments, awarded damages (including punitive damages), liabilities, interest and penalties, costs and expenses (including, without limitation, court costs and reasonable legal fees and disbursements in connection therewith) (each, a \"Claim\") to the extent resulting from, arising out of, relating to, or imposed upon or incurred by any DIALOG Indemnitees by reason of (a) death or bodily injury caused by or resulting from use of the Products.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement",
+    "summary": "The agreement outlines the terms for the design, development, and hosting of a website for the Client, FreeCook, by the Company, Mitchell's Web Advance. The Client is obligated to pay a total of $5,000, with an initial payment of $1,900 and the remainder upon project completion. The Company must deliver the website within 12 weeks, contingent on timely receipt of materials from the Client. Any changes to the project scope require written approval and may incur additional costs. Notable risks include potential delays due to the Client's late submissions or approvals, and the Company is not liable for errors in content provided by the Client. Additionally, the Company reserves the right to alter or cease customer service without liability. Rush work incurs a surcharge of 25% on the standard hourly rate.",
+    "termination_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    },
+    "confidentiality_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "Company at its sole discretion may at any time alter or cease providing the Customer Service which it has agreed to provide to Client relating to Client Website pursuant to this Agreement without any liability to Company.",
+      "confidence": "medium"
+    }
+  },
+  {
+    "contract_id": "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",
+    "summary": "The Strategic Alliance Agreement between EDGE Communications Solutions, LLC (EDGE) and FTE Networks, Inc. (FTE) outlines the terms for FTE to provide labor, materials, and services for EDGE's projects, specifically for a communications service provider, Mediacom, LLC. FTE is obligated to perform work as specified in purchase orders, maintain insurance, and ensure compliance with laws. EDGE must pay FTE for completed work, regardless of customer payment status. Notable risks include potential penalties for non-payment to lower-tier subcontractors, which may lead EDGE to withhold payments to FTE. FTE also indemnifies EDGE against claims related to the work performed. The agreement can be terminated for defaults, with EDGE having the right to complete the work and deduct costs from payments due to FTE. The contract includes confidentiality provisions and a non-solicitation clause for EDGE employees.",
+    "termination_clause": {
+      "found": true,
+      "text": "After the Initial Term, this Agreement shall continue on a month to month basis until terminated by either party upon thirty (30) days prior written notice to the other setting forth the effective date of such termination.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "Each Party shall safeguard such Confidential Information in the manner in which it safeguards its own confidential information, and shall not disclose Confidential Information to its employees, Lower-tier Subcontractors and agents, except to the extent necessary to enable it to fulfill its obligations under this Agreement.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "Subcontractor shall indemnify, defend and hold harmless EDGE and Customer and both of their subsidiaries, directors, shareholders, partners, principals (disclosed or undisclosed), employees, agents and representatives (hereinafter the \"Indemnitees\") from and against any and all claims, demands, damages, actions, causes of action, suits, losses, judgments, obligations, and any liabilities, costs and expenses, including but not limited to, investigative and repair costs, attorney fees and costs, and consultant's fees and costs (collective, \"Claims\") arising out of or in connection with the Work performed, materials furnished, or services provided or omitted under this Agreement by Subcontractor or its agents.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "GALACTICOMMTECHNOLOGIESINC_11_07_1997-EX-10.46-WEB HOSTING AGREEMENT",
+    "summary": "The Web Hosting Agreement establishes the terms between Galacticomm and Horst Entertainment Inc., nullifying any prior agreements. Horst Entertainment is obligated to pay Galacticomm $0.01 per access for up to 400,000 accesses, and $0.005 thereafter, with payments due weekly. Galacticomm must provide 24/7 technical support for server issues, while Horst Entertainment must ensure similar support at its broadcast location. A notable risk includes the potential termination of the agreement by Galacticomm, which grants Horst the option to purchase the software license for $15,000. Disputes will be resolved in Florida courts. Failure to meet payment deadlines or service obligations may expose either party to penalties or liability.",
+    "termination_clause": {
+      "found": true,
+      "text": "In the event Galacticomm, Inc. chooses to terminate this agreement, Horst Entertainment Inc. will have the right to purchase a license copy of the software in the amount of $15,000.00.",
+      "confidence": "medium"
+    },
+    "confidentiality_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT",
+    "summary": "The Consulting Agreement between Global Technologies, Ltd. and Timothy Cabrera outlines the provision of consulting services by Cabrera to the Company, focusing on business development and acquisition strategies. The Company must provide accurate information and cooperate with Cabrera, while Cabrera is responsible for delivering services and complying with applicable laws. Notably, the Company must pay Cabrera $250,000, with additional compensation tied to inventory sales, which will reduce a related debt. Risks include potential termination of the Agreement if either party faces bankruptcy, and liability exposure for both parties due to indemnification clauses for negligent acts. Confidentiality obligations are emphasized, and any breach could lead to penalties, including forfeiture of payments. Disputes are to be resolved through mediation and arbitration in Florida.",
+    "termination_clause": {
+      "found": true,
+      "text": "Either Party shall have the right to terminate this Agreement without notice in the event of the bankruptcy, insolvency, or assignment for the benefit of creditors of the other Party. Either Party shall have the right to terminate this Agreement with notice, and the effective date of termination shall be the date such notice is received (by mail, overnight delivery, or fax) by the terminated Party.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "The Consultant and the Company acknowledge that each will have access to proprietary information regarding the business operations of the other and agree to keep all such information secret and confidential and not to use or disclose any such information to any individual or organization without the non-disclosing Parties prior written consent.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "Each Party (the \"Indemnifying Party\") agrees to indemnify, defend, and hold harmless the other Party (the \"Indemnified Party\") from and against any and all claims, damages, and liabilities, including any and all expense and costs, legal or otherwise, caused by the negligent act or omission of the Indemnifying Party, its subcontractors, agents, or employees, incurred by the Indemnified Party in the investigation and defense of any claim, demand, or action arising out of the work performed under this Agreement; including breach of the Indemnifying Party of this Agreement.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement",
+    "summary": "The Walabot-HOME Reseller Agreement establishes a non-exclusive relationship between Vayyar Imaging Ltd. (Supplier) and Inde Living Holdings, Inc. (Reseller) for the resale of Walabot HOME products in the USA. The Supplier is responsible for shipping products and ensuring compliance with export regulations, while the Reseller must comply with laws, use Supplier-approved materials, attend training, and ensure End Users sign the End User Agreement. Notable risks include the Reseller's liability for any non-compliance by End Users and penalties for failing to meet minimum order quantities, which may result in additional payments to the Supplier. The Supplier limits its liability for indirect damages and requires the Reseller to indemnify it against third-party claims. The agreement is effective for one year, with automatic renewals, and can be terminated by either party with notice under specified conditions.",
+    "termination_clause": {
+      "found": true,
+      "text": "Following the Initial Term, either Party may terminate this Agreement without cause upon written notice to the other Party of at least 3 months. Without derogating from any other remedies that any Party may have under the terms of this Agreement or at law, each Party shall have the right to terminate this Agreement forthwith upon the occurrence of any of the following: (i) the other Party is in material breach of its obligations hereunder and fails to remedy such breach within 30 days after being requested in writing to do so; or (ii) the other Party's bankruptcy, insolvency, liquidation, whether voluntarily or otherwise, or if it makes an assignment for the benefit of creditors.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "Each Party agrees that it will maintain the confidentiality of all electronic, oral, and written communications from the other Party which should reasonably be regarded in the normal commercial view, as constituting confidential information, trade secrets or proprietary information (\"Confidential Information\") and use such Confidential Information only as necessary to exercise a Party's rights or perform a Party's obligations under this Agreement.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL SUPPLIER BE LIABLE UNDER, OR OTHERWISE IN CONNECTION WITH, THIS AGREEMENT FOR: (A) ANY CONSEQUENTIAL, INDIRECT, SPECIAL, INCIDENTAL, OR PUNITIVE DAMAGES; (B) ANY LOSS OF PROFITS, LOSS OF BUSINESS, LOSS OF REVENUE, OR LOSS OF ANTICIPATED SAVINGS; (C) ANY LOSS OF, OR DAMAGE TO, DATA, REPUTATION, OR GOODWILL; AND/OR (D) THE COST OF PROCURING ANY SUBSTITUTE GOODS OR SERVICES.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",
+    "summary": "The Intellectual Property Agreement establishes the terms for the use and ownership of trademarks and related rights between The Hertz Corporation (THC), Hertz System, Inc. (HSI), and Herc Rentals Inc. (HERC) following their planned separation into independent companies. HSI retains ownership of the Vehicle Rental Business (VRB) trademarks, while HERC is granted licenses to use certain trademarks and domains related to the Equipment Rental Business (ERB) for a four-year interim period. HERC must cease use of these trademarks and domains after this period. Notable risks include potential liability for trademark infringement claims, with HSI indemnifying HERC for such claims during the interim. HERC is also required to maintain insurance coverage and may face penalties for non-compliance, including termination of the agreement. The agreement emphasizes cooperation to avoid market confusion and outlines procedures for breach and termination.",
+    "termination_clause": {
+      "found": true,
+      "text": "In the event of a material breach of this Agreement or any of the ancillary agreements exhibited hereto, THC or HSI may notify HERC of such material breach and terminate this Agreement upon written notice. If HERC has not cured any such breach within thirty (30) days after HERC receives such notice, this Agreement shall automatically terminate without further notice.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "Unless otherwise agreed to by the Parties or except as otherwise provided in this Agreement or the Distribution Agreement, any Confidential Information (as defined in the Distribution Agreement) furnished pursuant to this Agreement shall be subject to the confidentiality provisions and restrictions on disclosure set forth in Section 6.7 of the Distribution Agreement.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "HSI shall defend, indemnify and hold HERC harmless against any and all claims, suits, actions or other proceedings whatsoever brought against HERC based on third-party claims of trademark infringement in connection with HERC'S use of the HSI (HERTZ) Foreign ERB Trademarks, the HSI (HERTZ) US ERB Trademarks, the HERC (HERTZ) US ERB Trademarks and the Other Intellectual Property to the extent such claims, suits, actions or other proceedings are based upon use of the HERTZ element comprising a HSI (HERTZ) Foreign ERB Trademark, HSI (HERTZ) US ERB Trademark, HERC (HERTZ) US ERB Trademark or Other Intellectual Property during the Interim Period only and from claims of third parties against HERC or any of its affiliates stemming from HERTZ's use of the HERTZ trademarks.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "ImpresseCorp_20000322_S-1A_EX-10.11_5199234_EX-10.11_Co-Branding Agreement",
+    "summary": "The Co-Branding Agreement between VerticalNet, Inc. and Impresse Corporation aims to create a co-branded online platform where users can access Impresse's commercial printing services through VerticalNet's online communities. Impresse is responsible for the design and maintenance of its area on the co-branded site, while VerticalNet handles its own area and the V-Solutions Link. Both parties must promote the co-branded site and refrain from advertising competing services.\n\nNotable risks include potential penalties for non-compliance with payment obligations, which may incur interest and audit costs. Each party indemnifies the other against third-party claims arising from breaches of their respective representations and warranties. The agreement includes a two-year limitation on claims and mandates arbitration for disputes, limiting liability for indirect damages. Confidentiality obligations persist for three years post-termination, and both parties must comply with applicable laws.",
+    "termination_clause": {
+      "found": true,
+      "text": "Either party may terminate this Agreement immediately upon written notice to the other party in the event of any material breach of a term of this Agreement by such other party that remains uncured 30 days after written notice of such breach was received by such other party or, if the breach is not reasonably capable of cure within 30 days, such longer period, not to exceed 60 days, so long as the cure is commenced within the 30-day period and thereafter is diligently prosecuted to completion as soon as possible and in any event within 60 days.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "Each party agrees to take Reasonable Steps (as defined below) (a) to receive and maintain the Confidential Information of the other party in confidence and (b) not to disclose such Confidential Information to any third parties, provided, the receiving party may disclose such Confidential Information to its employees, representatives and agents who have a need to know such information for purposes of carrying out the terms of this Agreement.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "EXCEPT IN CONNECTION WITH A BREACH BY EITHER PARTY OF ARTICLE 7 OR SECTION 8.1.5 [REPRESENTATIONS AND WARRANTIES] (v) AND THE INDEMNIFICATION OBLIGATIONS OF IMPRESSE UNDER SECTION 9.4(i)(d) [INDEMNIFICATION BY IMPRESSE] AND THE INDEMNIFICATION OBLIGATIONS OF VERTICALNET UNDER SECTION 9.5(i)(d) [INDEMNIFICATION BY VERTICALNET], NEITHER PARTY WILL BE LIABLE FOR ANY SPECIAL, INDIRECT, CONSEQUENTIAL, EXEMPLARY OR INCIDENTAL DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE), EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement",
+    "summary": "The agreement establishes Integrity Funds Distributor, LLC as the principal underwriter for the distribution of shares issued by the Integrity Short Term Government Fund. Integrity is obligated to solicit orders for shares, comply with applicable laws, and provide customer support, while the Fund must supply necessary documentation and information for share sales. Notable risks include potential liability for untrue statements in registration materials, with the Fund agreeing to indemnify Integrity against such claims, except in cases of Integrity's misconduct. The agreement can be terminated by either party with notice, and it automatically renews annually unless otherwise specified. The Fund's obligations are limited to its assets, protecting individual trustees and officers from personal liability.",
+    "termination_clause": {
+      "found": true,
+      "text": "This Agreement is terminable with respect to the Fund, without penalty, (a) on 60 days' written notice, by vote of a majority of the Qualified Trustees or by vote of a majority (as defined in the 1940 Act) of the outstanding voting securities of the Fund or (b) on 90 days' written notice by Integrity.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "The Fund agrees to indemnify, defend, and hold Integrity, its several officers and governors, and any person who controls Integrity within the meaning of Section 15 of the 1933 Act, free and harmless from and against any and all claims, demands, liabilities, and expenses (including the cost of investigating or defending such claims, demands, or liabilities and any counsel fees incurred in connection therewith) which Integrity, its officers and governors, or any such controlling person may incur under the 1933 Act, the 1940 Act, or common law or otherwise, arising out of or based upon any untrue statement or alleged untrue statement of a material fact contained in any registration statement, any prospectus, or any statement of additional information, or arising out of or based upon any omission or alleged omission to state a material fact required to be stated in any registration statement, any prospectus, or any statement of additional information, or necessary to make the statements in any of them not misleading; provided, however, that the Fund's agreement to indemnify Integrity, its officers or governors, and any such controlling person shall not be deemed to cover any claims, demands, liabilities, or expenses arising out of or based upon any statements or representations made by Integrity or its representatives or agents other than such statements and representations as are contained in any registration statement, prospectus, or statement of additional information and in such financial and other statements as are furnished to Integrity pursuant to paragraph 2.2 hereof; and further provided that the Fund's agreement to indemnify Integrity and the Fund's representations and warranties hereinbefore set forth in paragraph 3 shall not be deemed to cover any liability to the Fund or its shareholders to which Integrity would otherwise be subject by reason of willful misfeasance, bad faith, or gross negligence in the performance of its duties, or by reason of Integrity's reckless disregard of its obligations and duties under this Agreement.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "INTRICONCORP_03_10_2009-EX-10.22-Strategic Alliance Agreement",
+    "summary": "The Strategic Alliance Agreement between IntriCon Corporation and Dynamic Hearing Pty Ltd aims to leverage their complementary technologies for developing digital signal processing (DSP) products in the hearing health and professional audio markets. IntriCon is obligated to pay an annual technology access fee and minimum payments to maintain exclusive rights to Dynamic Hearing's technology for hearing aids. Dynamic Hearing retains ownership of its technology and can license it to identified third parties. Notable risks include potential liability for infringement claims and penalties for non-compliance with payment obligations. If IntriCon fails to meet minimum payment requirements, it risks losing exclusivity. The agreement also includes confidentiality provisions and indemnification clauses, holding each party responsible for claims arising from their respective actions. The initial term is five years, with conditions for renewal and termination.",
+    "termination_clause": {
+      "found": true,
+      "text": "11.1 Notwithstanding any provision to the contrary in this Agreement, this Agreement may not be terminated by either party prior to two years from the commencement date other than for the failure to pay the first and second yearly minimum payments as defined in section 4.3.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "7.1 Each party must: 7.2 This Agreement is confidential and each party must not disclose any part of this Agreement to any person without the prior written consent of the other party.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "10.3 To the maximum extent permitted by law and notwithstanding anything to the contrary in this Agreement: (d) Dynamic Hearing's aggregate liability to IntriCon for direct loss and damages and all other liability not described herein arising in connection with this Agreement whether in negligence, tort, equity, contract or otherwise, is limited to payment of damages recoverable at law or equity up to a maximum of (and, for the sake of clarity must not exceed) $5m;",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT",
+    "summary": "The Consulting Agreement between Kiromic, Inc. and Gianluca Rotino outlines the terms under which Rotino will provide consulting services, including business analysis, leadership in business development, and management of marketing campaigns. Kiromic is obligated to compensate Rotino at a rate of $400 per hour, with a monthly cap of 19 hours unless pre-approved. \n\nKey obligations include maintaining confidentiality of proprietary information and assigning any inventions or intellectual property developed during the engagement to Kiromic. Notable risks include potential liability for unauthorized disclosure of confidential information, with Rotino agreeing to indemnify Kiromic against related claims. The agreement allows for termination by either party with prior written notice, and it includes an arbitration clause for dispute resolution.",
+    "termination_clause": {
+      "found": true,
+      "text": "Either Consultant or Company may terminate this Agreement upon prior written notice thereof to the other party.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "Consultant shall not, during or subsequent to the term of this Agreement, use any Confidential Information for any purpose whatsoever other than the performance of the Services on behalf of Company, or disclose Confidential Information to any third party.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "Consultant agrees to indemnify Company and hold it harmless from and against all claims, liabilities, damages and expenses, including reasonable attorneys' fees and costs of suit, arising out of or in connection with any violation or claimed violation by Company of such third party's rights resulting in whole or in part from Company's use of the work product of Consultant under this Agreement.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT",
+    "summary": "The Distributor Agreement establishes Electric City of Illinois LLC as the exclusive distributor of Electric City Corp.'s energy efficiency devices within Illinois for a term of ten years, with potential annual renewals. The Company is obligated to supply products and promote them, while the Distributor must actively market and meet minimum purchase requirements, including an initial letter of credit of $500,000. Notable risks include the potential loss of exclusive rights if minimum sales expectations are not met, although the Distributor is protected from penalties due to uncontrollable events. Both parties indemnify each other against claims arising from breaches or negligence. The Company must maintain product liability insurance, and the Distributor is restricted from soliciting the Company's employees or customers for a specified period post-termination. The agreement includes provisions for termination, product returns, and confidentiality.",
+    "termination_clause": {
+      "found": true,
+      "text": "Either party may terminate this Agreement upon 30 days prior written notice to the other upon the occurrence of any of the following events: (A) the Distributor's failure to make full and prompt payment to the Company of all sums due and owing to it; (b) either party's default in the performance of any of the material, terms, conditions, obligations, undertakings, covenants or liabilities set forth herein and such default is not cured within a commercially reasonable time after the defaulting party has been notified of the default by the other party and (c) as otherwise expressly provided herein.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "None of the parties hereto nor their associated or affiliated or affiliated companies shall during the term of this Agreement or thereafter disclose any confidential information obtained or acquired by them in connection with the Products and the business of the other, including, without limitation, trade secrets, business techniques, technical information, customer and potential customer lists, marketing data and information, prices, improvements to the Products in various stages of development, processes, or other confidential information relating to the Products or the business of the Distributor, except that either party shall be permitted to disclose (x) all or portions of such confidential information on a strictly need-to-know basis to the extent required by an order of a court of competent jurisdiction or by the order or demand of a regulatory body having jurisdiction over one or both parties and (y) any of such confidential information that is the sole property of the party making the disclosure and does not include any information owned by the other party.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "Company and Distributor agree to indemnify, defend and hold each other harmless from any and all suits, claims, obligations, liabilities, damages, losses and the like (including attorneys' fees and costs) relating to or arising out of: (A) any breach of any material representations, warranties, covenants, obligations, agreements or duties in connection with this Agreement; (b) any negligence or fault; (c) any violation by either of them of the patent, copyright, trademark or other intellectual property rights of third parties.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement",
+    "summary": "The agreement establishes a framework for the purchase and supply of specified products between Shenzhen LOHAS Supply Chain Management Co., Ltd. (Buyer) and the Seller. The Buyer is responsible for issuing purchase orders, while the Seller must confirm orders within three working days and ensure timely delivery. Notably, the Seller is liable for damages due to improper packing and must provide insurance coverage for the goods. Risks include penalties for late delivery, capped at 5% of the total value, and potential contract cancellation if delays exceed ten weeks. Claims for non-conformity must be made within seven days of delivery, with the Seller responsible for rectifying defects. Disputes are to be resolved through arbitration in Beijing, and the contract is governed by Chinese law. The agreement is valid for five years and includes confidentiality provisions regarding pricing.",
+    "termination_clause": {
+      "found": true,
+      "text": "In case the accident lasts for more than 10 weeks, the Buyers shall have the right to cancel the Contract.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "This final price is the confidential information. Dissemination, distribution or duplication of this price is strictly prohibited.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "The Sellers shall be liable for any damage and loss of the commodity, expenses incurred on account of improper packing, and any damage attributable to inadequate or improper protective measures taken by the seller in regard to the packing.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "LOYALTYPOINTINC_11_16_2004-EX-10.2-RESELLER AGREEMENT",
+    "summary": "The agreement establishes a reseller relationship between American Express Incentive Services (AEIS) and Schoolpop, Inc. for the resale of stored value cards to nonprofit organizations. AEIS grants Schoolpop exclusive rights to sell these cards, contingent upon a minimum annual purchase of $52 million. Schoolpop must pay a marketing rights fee of $1.25 million and manage card inventory according to specified security and forecasting requirements. Notable risks include penalties for inventory shortages and customer service failures, with potential fees for non-compliance. Liability is limited to $50,000, excluding certain breaches, and both parties must maintain confidentiality regarding proprietary information. The agreement can be terminated for bankruptcy, breach, or non-payment, with specific conditions for post-termination sales.",
+    "termination_clause": {
+      "found": true,
+      "text": "Either party may terminate this Agreement with written notice to the other party as follows: ... (1) admit in writing its inability to pay its debts generally as they become due; ... (2) make a general assignment for the benefit of creditors; ... (3) institute proceedings to be adjudicated a voluntary bankrupt; ... (4) consent to the filing of a petition or bankruptcy against it; ... (5) be adjudicated by a court of competent jurisdiction as being bankrupt or insolvent; ... (6) seek reorganization under any bankruptcy act; ... (7) consent to the filing of a petition seeking such reorganization; ... (8) have a decree entered against it by a court of competent jurisdiction appointing a receiver, liquidator, trustee, or assignee in bankruptcy or in insolvency covering all or substantially all of such party's property or providing for the liquidation of such party's property or business affairs; ... (ii) Upon the occurrence of a breach by the other party, which breach has not been cured within (30) days after the date of written notice to the breaching party by the non-breaching party; ... (iii) For non-payment of any amounts due hereunder.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "The terms, procedures, any applicable criteria for success and results of this Agreement and all information furnished by and between the parties in connection with this Agreement shall be confidential and shall not be disclosed by either party without the express written consent of the other party; ... both parties agree to receive and hold in confidence all Confidential Information considered proprietary or confidential by the other party, and agree not to disclose or use such information in any manner except for uses contemplated by this Agreement unless permitted in writing in advance by the other party.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "the cumulative liability of the parties to one another for any claims, liabilities, losses, damages or expenses, direct or indirect, arising out of or related to this Agreement shall not exceed the lesser of $50,000 or ... In no event shall either party be liable to the other, under any theory, for lost profits, exemplary, punitive, special incidental, indirect, or consequential damages.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "MetLife, Inc. - Remarketing Agreement",
+    "summary": "The Remarketing Agreement between MetLife, Inc. and Deutsche Bank Securities Inc. outlines the process for remarketing Series E Senior Component Debentures. MetLife appoints Deutsche Bank as the Remarketing Agent, responsible for remarketing the securities and establishing reset rates. The agreement stipulates that a Successful Remarketing requires the sale of all tendered securities by a specified deadline, generating proceeds that meet or exceed the Remarketing Price.\n\nKey obligations include MetLife's duty to provide necessary documentation and comply with regulatory requirements, while Deutsche Bank must use commercially reasonable efforts to remarket the securities. Notable risks include the potential failure of the remarketing, which would terminate the agreement, and liability exposure for MetLife, which must indemnify Deutsche Bank against claims arising from misleading statements in related documents.",
+    "termination_clause": {
+      "found": true,
+      "text": "This Remarketing Agreement shall terminate (i) in the event of a Remarketing that is not a Successful Remarketing or (ii) as to any Remarketing Agent who resigns or is removed, on the effective date of the resignation or removal of such Remarketing Agent pursuant to Section 7.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "The Company will indemnify and hold harmless each Remarketing Agent, its partners, directors and officers and each person, if any, who controls such Remarketing Agent within the meaning of either Section 15 of the Act or Section 20 of the Exchange Act, against any losses, claims, damages or liabilities, joint or several, to which such Remarketing Agent may become subject, under the Act or otherwise, insofar as such losses, claims, damages or liabilities (or actions in respect thereof) arise out of or are based upon an untrue statement or alleged untrue statement of a material fact contained in (i) the Registration Statement or any amendment or supplement (when considered together with the document to which such supplement relates) thereto, or arise out of or are based upon the omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading or (ii) any Preliminary Prospectus, Pricing Prospectus, any Issuer Free Writing Prospectus or the Final Prospectus or any amendment or supplement (when considered together with the document to which such supplement relates) thereto, or any \"issuer information\" filed or required to be filed pursuant to Rule 433(d) under the Act, or arise out of or are based upon the omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein, in light of the circumstances under which they were made, not misleading, and will reimburse each Remarketing Agent for any legal or other expenses reasonably incurred by such Remarketing Agent in connection with investigating or defending any such action or claim as such expenses are incurred; provided, however, that the Company shall not be liable in any such case to the extent that any such loss, claim, damage or liability (or action in respect thereof) arises out of or is based upon an untrue statement or alleged untrue statement or omission or alleged omission made in any Preliminary Prospectus, any Issuer Free Writing Prospectus, Pricing Prospectus, the Registration Statement or the Final Prospectus, or any such amendment or supplement(s) in reliance upon and in conformity with written information furnished to the Company by any Remarketing Agent expressly for use therein.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "MSCIINC_02_28_2008-EX-10.10-",
+    "summary": "The Intellectual Property Agreement between Morgan Stanley & Co. Incorporated (MS) and MSCI Inc. establishes a framework for the licensing of intellectual property. MS grants MSCI a non-exclusive, perpetual, irrevocable, royalty-free license to use and modify MS Licensed Materials, while MSCI grants a similar license for MSCI Licensed Materials to MS. Neither party is obligated to provide support or maintenance for the licensed materials, which are provided \"as-is\" without warranties. Notably, both parties disclaim liability for indirect, incidental, or consequential damages arising from the agreement, and each party must mitigate damages resulting from non-compliance by the other. The agreement is governed by New York law, and any disputes must be resolved in New York courts.",
+    "termination_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    },
+    "confidentiality_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "(a) MSCI agrees that neither MS nor its affiliates or subsidiaries (other than MSCI) (collectively, the \"MS Provider Group\") and the respective directors, officers, agents, and employees of the MS Provider Group shall have any liability, whether direct or indirect, in contract or tort or otherwise, to MSCI for or in connection with this Agreement or the transactions contemplated hereby or any actions or inactions by or on behalf of the MS Provider Group in connection with this Agreement and such transactions.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT",
+    "summary": "The Joint Filing Agreement establishes a collaborative framework for the undersigned parties to jointly prepare and file Schedule 13G or Schedule 13D with regulatory authorities, reporting their ownership of securities. Each party is obligated to ensure timely filing of amendments and to provide accurate information regarding their own ownership, but they are not liable for inaccuracies in the information provided by others unless they are aware of such inaccuracies. Notable risks include potential penalties for late filings or inaccuracies, which could expose parties to regulatory scrutiny or liability. Each party must remain vigilant about their own disclosures to mitigate these risks.",
+    "termination_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    },
+    "confidentiality_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    },
+    "liability_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    }
+  },
+  {
+    "contract_id": "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT",
+    "summary": "The Manufacturing Outsourcing Agreement establishes a partnership between Nice Systems Ltd. (NICE) and Flextronics Israel Ltd. (Contractor) for the production, testing, and delivery of NICE's digital recording products. Contractor is obligated to provide manufacturing services, including purchasing components, assembly, and quality control, while NICE will supply necessary inventory and oversee operations. Notable risks include potential delays in delivery, which may incur liquidated damages of up to 5% of the product price. NICE can cancel purchase orders (POs) with prior notice, limiting its liability to fixed cancellation charges during production. Confidentiality is emphasized, prohibiting the disclosure of NICE's proprietary information without consent. The agreement also outlines responsibilities for managing inventory and engineering changes, ensuring both parties maintain operational efficiency and compliance with quality standards.",
+    "termination_clause": {
+      "found": true,
+      "text": "NICE may at its discretion, at any time, cancel, in whole or in part, PO's of Products issued pursuant to this Agreement subject to the delivery of prior written notice, before the respective Due Date.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "Contractor will provide the Manufacturing Outsourcing Services in a manner that complies with the Confidentiality requirements of APPENDIX E. Contractor shall not: transfer to others, copy or duplicate, sub-license, sell, publish, display or otherwise make available in any form or disclose, the NICE Proprietary Information and/or the NICE Software and/or the NICE Intellectual Property, to any third party, except to suppliers/manufacturers of components and/or sub assemblies that require specifications for their supply, in which case they shall be required by Contractor to execute a Confidentiality Agreement in the form of APPENDIX E VIS-A-VIS NICE.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "NICE shall have no liability for cancellation of a PO prior to the Production Lead Time of the Product. For cancellation of a PO during the Production Lead Time and until the Due Date, NICE' liability for cancellation shall be limited to the following: Payment of a fixed cancellation charge for all cancelled units of Products as specified in APPENDIX C.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT",
+    "summary": "The Support and Maintenance Agreement between On2 Technologies, Inc. and Wildform, Inc. outlines the provision of transition services and software deliverables following an asset purchase. Wildform is obligated to deliver specific software products and provide technical support, while On2 must pay a total of $160,000 and issue shares as compensation. Each party must maintain confidentiality regarding sensitive information. Notable risks include potential termination for material breaches, which could lead to loss of services or assets. Liability exposure is addressed through mutual indemnification clauses, where each party agrees to defend and hold the other harmless for breaches of confidentiality, warranties, or intellectual property rights. Failure to meet obligations may result in penalties, including the need to return or destroy confidential materials upon termination.",
+    "termination_clause": {
+      "found": true,
+      "text": "Either of Wildform or On2 may terminate this Agreement if the other Party is in material breach of this Agreement and fails to cure such breach within thirty (30) days after written notice. Either of On2 or Wildform may terminate this Agreement if the other Party becomes bankrupt or a receiver is appointed for a substantial part of its assets or business, or any order is made approving a petition or answer seeking reorganization under any applicable bankruptcy law.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "The Receiving Party represents and warrants to the Disclosing Party that: it will keep and maintain all Confidential Information of the Disclosing Party in strict confidence, using such degree of care as is appropriate to avoid unauthorized use or disclosure; it will not, directly or indirectly, disclose any Confidential Information to any third party, except as contemplated by this Agreement or with the Disclosing Party's prior written consent; it will not make use of any Confidential Information for its own purposes, such as creation of a competitive product; or for the benefit of anyone or any entity other than as contemplated by this Agreement;",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "On2 agrees to defend, indemnify and hold harmless Wildform, its officers, directors, employees, agents and customers from and against any claim, action, damage or costs (including reasonable attorneys fees) based on any breach by On2 of Sections 5, 6 or 7 of this Agreement provided that: (i) On2 is promptly notified in writing of such claim or action, (ii) Wildform grants On2 sole control of the defense and any related settlement negotiations, and (iii) Wildform reasonably cooperates with On2 in defense of such claim.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "OPERALTD_04_30_2020-EX-4.14-SERVICE AGREEMENT",
+    "summary": "The Service Agreement between PC Financial Services Private Limited and Mobimagic Co., Ltd. outlines the provision of system maintenance and data processing services by Mobimagic to PC Financial for small, unsecured loans in India from April 1, 2019, to March 30, 2020. PC Financial is obligated to pay Mobimagic a monthly fee of $970,000 and ensure compliance with data protection laws. Mobimagic must deliver services competently and without infringing on third-party rights. Notable risks include potential liability for breaches of confidentiality and data protection laws, with indemnification clauses requiring each party to defend the other against third-party claims related to their respective breaches. The agreement limits liability to the total fees paid, excluding consequential damages. Termination can occur for material breaches not remedied within 30 days.",
+    "termination_clause": {
+      "found": true,
+      "text": "9.2 This Agreement may be terminated by either Party prior to the end of the Service Period if the other Party is in material breach of any term, or condition of this Agreement and such breach is not remedied for a period of thirty (30) days after the Party in breach has been notified in writing of such breach by the other Party.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "7. CONFIDENTIALITY & PUBLICITY Neither Party shall disclose the other Party's Confidential Information to any third party or use Confidential Information for any purpose other than for the proper fulfillment of this Agreement. Each Party undertakes to safeguard the Confidential Information of the other Party with the same degree of care as it would apply to Its own Confidential Information and, in any case, with no less than reasonable care. Such obligations will survive the expiration of this Agreement for a period of five (5) years.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "10.2 IN NO EVENT WILL EITHER PARTY BE LIABLE FOR ANY CONSEQUENTIAL, INDIRECT, EXEMPLARY, SPECIAL, OR INCIDENTAL DAMAGES ARISING FROM OR RELATING TO THIS AGREEMENT. NEITHER PARTY'S TOTAL CUMULATIVE LIABILITY IN CONNECTION WITH THIS AGREEMENT, WHETHER IN AGREEMENT OR TORT OR OTHERWISE, WILL NOT EXCEED THE AGGREGATE AMOUNT OF FEES AND EXPENSES OWED BY PC FINANCIAL TO MOBIMAGIC FOR SERVICES PERFORMED UNDER THIS AGREEMENT.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",
+    "summary": "The Amended and Restated Strategic Licensing, Distribution, and Marketing Agreement between Pacira Pharmaceuticals, Inc. (PPI) and EKR Therapeutics, Inc. outlines the exclusive rights granted to EKR to market and distribute PPI's pharmaceutical products in specified territories. PPI is responsible for manufacturing the products and transferring necessary marketing authorizations and equipment to EKR. EKR must maintain marketing authorizations, conduct promotional activities, and manage sales within the territory.\n\nNotable risks include potential liability exposure for both parties, with PPI's liability limited to a specified amount, excluding cases of negligence leading to personal injury. EKR faces penalties if it fails to launch products within specified timelines or engages in competing product activities. Confidentiality obligations protect sensitive information shared between the parties, with exceptions for public domain information.",
+    "termination_clause": {
+      "found": true,
+      "text": "At any time between the Agreement Date and July 1, 2015, EKR shall have the right, exercisable upon sixty (60) days prior written notice to PPI, to terminate the Lease Term and sell the Transferred Equipment back to PPI, subject to payment by PPI to EKR within five (5) days of such notice of $[**] in cash, which if exercised shall result in (i) an offset against the unpaid balance of principal and interest under the Promissory Note pursuant to Section 3.20(f) below; and (ii) the termination of the Step-in Right described in Section 17.5.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "\"Confidential Information\" Means all confidential information, data and materials in whatever form disclosed by or on behalf of one Party or its Affiliates to the other Party or its Affiliates including, without limitation, the terms of this Agreement, data, formulae, unpublished patent disclosures, processes, protocols, marketing studies, sales information, specifications and know-how, (and, in the case of EKR's Confidential Information, EKR's marketing plans and EKR's sales forecasts), but excluding information which either Party can establish by written documentation: (i) at the time of disclosure, is in the public domain or is public knowledge; (ii) after disclosure, becomes part of the public domain by publication, except by breach of any obligation of confidentiality by a Party hereto or an Affiliate of such Party; (iii) was already in its possession at the time of its receipt and was not acquired directly or indirectly from the other Party or its Affiliates; or (iv) received from Third Parties who were lawfully entitled to disclose such information;",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "Any and all liability of PPI to EKR howsoever arising in respect of this Agreement, the Transition Services and Inventory Agreement or the Supply Agreement and their performance, in contract tort or otherwise, shall be limited (except for death or personal injury caused by the negligence of PPI or its employees while acting in the course of their employment) to [**] US Dollars ($[**]); provided however that such limitation shall not apply to the extent that EKR or any EKR Indemnified Party is required to pay in excess of such amount to a third party in respect of a final judgment or order obtained by the third party or as a result of PPI's breach of Section 7.2.12 of the Supply Agreement.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement1",
+    "summary": "The Franchise Agreement between Pizza Fusion Holdings, Inc. and the Franchisee grants the Franchisee the right to operate a Pizza Fusion restaurant at a specified location, adhering to the franchisor's standards and procedures. The Franchisee must pay an initial fee of $30,000, ongoing royalties of 6% of gross revenues, and contribute to marketing funds. Key obligations include site selection approval, compliance with operational standards, and completion of mandatory training. Notable risks include potential termination if the Franchisee fails to secure site approval within 90 days or does not comply with operational requirements. The Franchisee is liable for all payments, which are unconditional and cannot be withheld for any claims. Additionally, the Franchisee must maintain confidentiality regarding customer information, which remains the property of the franchisor.",
+    "termination_clause": {
+      "found": true,
+      "text": "If we do not approve in writing the proposed site, you must, within 30 days after our disapproval of the proposed site, submit a new proposed site within the Delivery/Catering and Advertising Area for our review and approval. (b) By no later than 90 days after the Agreement Date, you must have obtained our written approval of a site. If you have not done so, we may elect to terminate this Agreement, and we will not refund to you the Initial Franchise Fee or any other money paid to us.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "You must create and maintain, in such manner as we may from time to time require, a current customer list (the \"Customer List\") containing as to each of your customers, such customer's name, e-mail address, location address, telephone number and zip code (9 digits). You must provide a copy of such list to us on a quarterly basis (or at such other intervals as we may prescribe). The Customer List is, and remains, our exclusive property, you hereby assign to us all rights you now have or hereafter may acquire in the Customer List. After the expiration or termination of this Agreement, you may not retain, use or disclose the Customer List, or any of the information contained therein, without our written authorization.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "You agree that your obligations to pay us (as well as our affiliates) under this Agreement or any other agreement in connection to the Franchised Business are absolute and unconditional, and not subject to abatement or setoff for past or future claims that you may assert.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement3",
+    "summary": "The agreement establishes confidentiality and non-competition obligations between the Franchisee and its personnel (the Member) to protect the Franchisor's proprietary information and business interests. The Member must not disclose or use any confidential information obtained during their relationship with the Franchisee, both during and after the term of the Franchise Agreement. Additionally, the Member agrees not to engage in any competitive business activities within a three-mile radius of the Franchisee's location for two years following the termination of their employment or the Franchise Agreement. Notable risks include potential legal action for breach of contract, which could result in the Member being liable for court costs and attorney fees incurred by the Franchisor. The agreement also allows for injunctive relief to prevent violations, emphasizing the importance of compliance.",
+    "termination_clause": {
+      "found": true,
+      "text": "(b) expiration or termination of the Franchise Agreement (regardless of the cause for termination);",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "Member shall not, during the term of the Franchise Agreement or thereafter, communicate, divulge or use, for any purpose other than the operation of the Franchised Business, any confidential information, knowledge, trade secrets or know-how which may be communicated to Member or which Member may learn by virtue of Member's relationship with Franchisee.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "Member acknowledges that any failure to comply with the requirements of this Agreement will cause Franchisor irreparable injury, and Member agrees to pay all court costs and reasonable attorney's fees incurred by Franchisor in obtaining specific performance of, or an injunction against violation of, the requirements of this Agreement.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT",
+    "summary": "The Intellectual Property Agreement establishes a collaboration among Marv Enterprises, Premier Biomedical, and Technology Health for developing and commercializing treatments for COVID-19. Marv grants Premier an exclusive license to its patents and related applications, which Premier can assign to THI. THI is obligated to pay a $20,000 upfront fee and approximately $80,000 in outstanding invoices, along with ongoing royalties of 5% on sales of licensed products. Notably, if THI fails to meet payment obligations, the license may revert to Premier, and THI's rights to the patents in that country will terminate. Additionally, THI must reimburse Marv for intellectual property costs, and failure to do so will also result in reversion of rights. Confidentiality is mandated, and any breach could expose parties to liability. The agreement is governed by Pennsylvania law.",
+    "termination_clause": {
+      "found": true,
+      "text": "If THI does not make the obligatory payments as stated in 2(b) by the dates stated, the Exclusive License will revert back to Premier.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "Each Party agrees to hold in confidence confidential information acquired in the course of this relationship with the other Parties and their associates. Each Party agrees to refrain from, either during period of this Agreement or at any other time thereafter, disclosing, using or disseminating such confidential information, for its or another's benefit, in any way acquired in the course of any association arising out of this Agreement.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    }
+  },
+  {
+    "contract_id": "ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement",
+    "summary": "The Master Supply Agreement establishes the terms under which Reynolds Consumer Products LLC (Seller) will sell products to Pactiv LLC (Buyer) for resale. Seller is obligated to provide products that meet specified quality and legal standards, while Buyer must purchase products as outlined in Purchase Schedules. Each party must maintain compliance with applicable laws and ethical standards.\n\nNotable risks include potential liability for product defects, with Seller indemnifying Buyer against third-party claims related to non-conforming products. Both parties waive claims for indirect damages, limiting liability to direct damages. The agreement allows for termination by either party with written notice after the last Purchase Schedule expires. Confidentiality is emphasized, with both parties required to protect shared proprietary information.",
+    "termination_clause": {
+      "found": true,
+      "text": "(b) a termination date elected by a Party in a written notice delivered to the other Party any time after the expiration of the last Purchase Schedule; or (c) a termination date elected by a Party in a written notice delivered to the other Party as provided in Subsection 11(d) of this Agreement.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "The existence and terms of this Agreement, and the existence, nature and extent of the business relationship between the Parties, will be considered the Confidential Information of each Party.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "Each Party waives any right to recover consequential, incidental, indirect, exemplary, punitive or any other types of indirect damages from the other Party for a breach of this Agreement.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "SENMIAOTECHNOLOGYLTD_02_19_2019-EX-10.5-Collaboration Agreement",
+    "summary": "The Collaboration Agreement between Didi Chuxing Technology Co., Ltd. and Hunan Ruixi Financial Leasing Co., Ltd. aims to facilitate vehicle leasing for Driver Users on Didi's platform. Didi is responsible for maintaining the platform and ensuring smooth transactions, while Hunan Ruixi must provide compliant vehicles and financial leasing services. Both parties must adhere to platform rules and maintain confidentiality regarding shared information.\n\nNotable risks include potential penalties for breaches, such as liquidated damages ranging from RMB 1,000 to RMB 50,000, depending on the severity of the violation. If Hunan Ruixi fails to comply with obligations, Didi can terminate the agreement and seek compensation for losses incurred. Additionally, either party may terminate the agreement under specific conditions, including insolvency or failure to remedy breaches within 30 days.",
+    "termination_clause": {
+      "found": true,
+      "text": "9.1 In the following cases, either party may terminate this Agreement immediately by written notice to the other party, and this Agreement shall terminate as of the date on which such party gives such written notice of termination: 9.1.1 The other party ceases to carry on business or goes into liquidation (other than voluntary liquidation for the purpose of reorganization or combination of bona fide bankruptcy with prior written consent of such party) or dissolution; 9.1.2 The other party is unable to pay its debts as they become due, or has a receiver, administrative receiver or administrator (or any similar person provided by the Laws of the place where the company is located or incorporated) appointed for bankruptcy of all or any part of its property, or will go into any bankruptcy; 9.1.3 Unless otherwise agreed, the other party is in violation of any provision of this Agreement and fails to remedy such violation within 30 days from the receipt of notice of such violation from such party (if capable of remedy); 9.1.4 The other Party Breaches the Agreement, and such party may terminate this Agreement in accordance with this Agreement or the Platform Rules.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "7.1 Each party shall maintain the confidentiality of all confidential information and shall not disclose any confidential information to any third party without the prior written consent of the other party, except for the information which (a) is or will be known by public (not caused by the disclosure to the public by the receiving party); (b) is required to be disclosed by the applicable law or any securities exchange rules or regulations; (c) is necessary to be disclosed to the counsels or financial consultants by either party in respect of the transaction under this Agreement, and such counsels or financial consultants are bound by similar confidentiality obligations hereunder.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "10.6 In the event of any breach of the terms of this Agreement by either party, the breaching party shall remedy such breach within the time limit notified by the observing party. In the event of any losses incurred to the observing party, in addition to the corresponding liability for breach under the Agreement, the breaching party shall also be liable for the compensation for such losses (including, but not limited to, the losses incurred to the counterParty By such breach, the legal costs, notarial fees, appraisal fees, the attorney's fee, the travel expenses, etc., arising from the investigation and affixation of the liabilities of the breaching Party By the counterparty).",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "SIBANNAC,INC_12_04_2017-EX-2.1-Strategic Alliance Agreement",
+    "summary": "The Strategic Alliance Agreement establishes a partnership between Bravatek Solutions, Inc. and Sibannac, Inc. to promote and sell Sibannac's patented Air Cylinder Wheel products, particularly to government clients. Bravatek is responsible for marketing these products, providing sales leads, and reporting on potential sales, while Sibannac must support Bravatek's efforts and respond to inquiries. Both parties will collaborate on product strategies and marketing materials.\n\nKey risks include potential liability for damages arising from negligence or misconduct, with each party indemnifying the other against third-party claims. The agreement is effective for 12 months, automatically renewing unless terminated with 90 days' notice. Confidentiality obligations last for five years post-termination. Modifications require written consent, and neither party may assign the agreement without approval.",
+    "termination_clause": {
+      "found": true,
+      "text": "This Agreement may also be terminated by either party upon ninety (90) days written notice.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "COMPANY and Bravatek agree to maintain in strict confidence and not to disclose or disseminate, or to use for any purposes other than performance of the projects, the Confidential Information disclosed.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "COMPANY shall indemnify Bravatek, its directors, officers and employees, for any and all damages, costs, expenses, and other liabilities, including reasonable attorney's fees and court costs incurred in connection with any third-party claim, action or proceeding arising from the negligence or intentional misconduct of COMPANY or breach of COMPANY of any of its obligations under this Agreement.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement",
+    "summary": "The agreement establishes an Affiliate Program between element 5 GmbH and website owners (Affiliates) to promote software products from Software Publishers. Affiliates earn commission based on sales generated through their advertisements. Key obligations include Affiliates integrating product links on their websites and maintaining the confidentiality of their access credentials. Software Publishers must activate Affiliates and set commission rates.\n\nNotable risks include the potential for non-payment of commissions if sales are canceled or if the end user fails to meet payment obligations. Affiliates are liable for the content on their websites and must indemnify element 5 and Software Publishers against claims arising from breaches. The agreement can be terminated by either party at any time, and upon termination, all rights to use provided materials cease. Element 5 retains the right to modify terms, with changes taking effect unless contested within 14 days.",
+    "termination_clause": {
+      "found": true,
+      "text": "Either party may cancel this Agreement at any time, with or without supplying a reason, through written notification or by making suitable settings in the respective Control Panel.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "The parties exclude mutual liability for slightly negligent violation of obligations in connection with this agreement, with the exception of \u00a7 16 and \u00a7 5 (3) of this agreement. This includes in particular the liability exclusion for lost profit, the loss of data or interruption to or errors in the operation of the Web site of the Affiliate.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "ThriventVariableInsuranceAccountB_20190701_N-6_EX-99.D(IV)_11720968_EX-99.D(IV)_Endorsement Agreement",
+    "summary": "The agreement facilitates the transfer of all assets and liabilities from the dissolved Thrivent Life Insurance Company to Thrivent Financial for Lutherans, which assumes all obligations under the contract. Key obligations include maintaining solvency, where members may need to make extra payments if solvency is impaired, with penalties for non-payment including interest charges. Membership rights are defined separately from contract ownership, and dividends, if any, will be credited based on the divisible surplus, though none are expected. The contract also allows for ownership transfer in accordance with bylaws, but membership rights cannot be assigned. Notably, all references to the former company are updated to reflect the new entity, and benefits will not be reduced by future amendments to the Society's governing documents.",
+    "termination_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    },
+    "confidentiality_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    },
+    "liability_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    }
+  },
+  {
+    "contract_id": "TUNIUCORP_03_06_2014-EX-10-COOPERATION AGREEMENT",
+    "summary": "The Cooperation Agreement (2014 Amendment) establishes a partnership between Nanjing Tuniu Technology Co., Ltd. (Party A) and Beijing Tuniu Technology Co., Ltd. (Party B) for the internet-based sale and promotion of tour products. Party A is obligated to exclusively engage Party B for technical and business consultancy services, while Party B must provide these services, including technology development and operational support. Notable risks include penalties for late payment of service fees, which incur liquidated damages at a daily interest rate of 0.03%. Additionally, Party A waives rights to terminate the agreement under certain conditions, exposing it to potential liabilities for breach. The agreement also includes confidentiality obligations and stipulates that any intellectual property developed belongs to Party B. Disputes are to be resolved through arbitration in Beijing.",
+    "termination_clause": {
+      "found": true,
+      "text": "6.1 Prior to the expiration of the Term of Cooperation, this Agreement shall only be terminated upon occurrence of the following circumstances: 6.1.1 Party B shall have the right to terminate this Agreement in advance without the prior written consent from Party A, by sending a written notice to Party A but Party A may not terminate or rescind this Agreement; 6.1.2 One Party requests to terminate this Agreement when the other Party is declared bankrupt in accordance with the laws; 6.1.3 Party B fails to provide Party B's Services to Party A for more than three consecutive years due to the force majeure event.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "12.8.1 Neither Party shall disclose the financial and technical information obtained in the course of conclusion of this Agreement to any third party nor use such information for matters irrelevant to this Agreement, regardless of written or oral information, unless the other Party gives a prior written consent thereto. 12.8.2 The Parties shall be obligated to take measures (including without limitation preparing the confidentiality rules, entering into the confidentiality agreement, establishing the archive management system and etc.) to ensure their respective employees will observe the confidentiality obligations specified hereunder.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "8.1 If any Party commits any act in violation of this Agreement, such Party shall assume the liabilities for breach according to this Agreement and applicable laws. If both Parties breach this Agreement, they shall each assume their own liabilities for breach respectively. Notwithstanding the foregoing provisions, neither Party shall be responsible to the other Party in respect of any indirect loss or damage caused hereunder.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT",
+    "summary": "The agreement amends and terminates the Joint Venture Agreement (JV Agreement) between the Veoneer Parties and the Nissin Parties, effective upon the closings of share purchase agreements for Veoneer Nissin Brake Systems Japan and Zhongshan. The Veoneer Parties will cease to have any equity interest in these entities, and all rights and obligations under the JV Agreement will terminate concerning them. However, the JV Agreement remains in effect solely between the Nissin Parties and Autoliv AB for liquidation proceedings of Autoliv Nissin Brake Research Asia. Notably, the termination does not release either party from liability for breaches occurring before the closings. The Nissin Parties must ensure compliance with indemnification provisions for directors and officers related to liabilities arising prior to the closings. The agreement is governed by Japanese law and is contingent on the successful completion of the share purchase agreements.",
+    "termination_clause": {
+      "found": true,
+      "text": "effective as of the later of the VNBJ Closing and the VNBZ Closing, the JV Agreement shall terminate in its entirety with respect to the Veoneer Parties and (b) after the later of the VNBJ Closing and the VNBZ Closing, the Veoneer Parties shall cease to be a party to the JV Agreement and shall have no further obligations with respect thereto.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": false,
+      "text": "",
+      "confidence": "low"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "the termination of the JV Agreement with respect to VNBJ, VNBZ or the Veoneer Parties shall not release any Veoneer Party or any Nissin Party from liability for the breach of any of its representations, warranties, covenants or agreements set forth in the JV Agreement that arise prior to the VNBJ Closing or the VNBZ Closing, as applicable.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT",
+    "summary": "The Promotion and Distribution Agreement between Whitesmoke Inc. and Google Inc. outlines the terms for distributing Google's Chrome Browser and Google Toolbar bundled with Whitesmoke's applications. Whitesmoke is obligated to accurately reproduce and distribute these products, comply with Google's guidelines, and report distribution metrics. Google must provide the necessary software and updates. \n\nKey risks include potential termination for breaches, particularly regarding licensing and confidentiality, with immediate effects if breaches are not remedied within 30 days. Liability is limited, but neither party can exclude responsibility for negligence or fraud. Additionally, both parties must protect confidential information and comply with applicable laws, including anti-bribery regulations.",
+    "termination_clause": {
+      "found": true,
+      "text": "5.2 Termination for breach. A party may suspend performance and/or terminate this Agreement, with immediate effect, if the other party: (a) is in material breach of this Agreement where the breach is incapable of remedy; or (b) is in material breach of this Agreement where the breach is capable of remedy and fails to remedy that breach within thirty (30) days after receiving written notice of such breach.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "6.1 In this Agreement, \"Confidential Information\" means information disclosed by (or on behalf of) one party to the other party under this Agreement that is marked as confidential or, from its nature, content or the circumstances in which it is disclosed, might reasonably be supposed to be confidential, including the terms and conditions (including the Exhibits) of this Agreement.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "9.1 Nothing in this Agreement shall exclude or limit either party's liability for: (a) death or personal injury resulting from the negligence of either party or their servants, agents or employees; (b) fraud or fraudulent misrepresentation;",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "ZEBRATECHNOLOGIESCORP_04_16_2014-EX-10.1-INTELLECTUAL PROPERTY AGREEMENT",
+    "summary": "The Intellectual Property Agreement between Motorola Solutions, Inc. (Seller) and Zebra Technologies Corporation (Purchaser) facilitates the transfer of certain intellectual property (IP) assets as part of a broader acquisition. The Seller is obligated to assign specific IP rights, including patents and trademarks, to the Purchaser, while the Purchaser agrees to assume related liabilities. Both parties must maintain confidentiality regarding disclosed information and arbitration proceedings. Notable risks include potential disputes over IP ownership, which may lead to arbitration if unresolved. Additionally, neither party provides warranties regarding the assigned IP's condition or fitness for purpose, exposing them to liability if issues arise post-transfer. The agreement automatically terminates if the overarching Acquisition Agreement is terminated.",
+    "termination_clause": {
+      "found": true,
+      "text": "This IP Agreement will terminate automatically and without need for further action by either party in the event that the Acquisition Agreement is terminated in accordance with its terms.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "The parties shall maintain the confidential nature of all information, documents and materials disclosed and statements made in connection with any negotiations or arbitration proceeding, and any arbitration proceeding and the judgment, including any hearing or award, except as may be necessary to prepare for or conduct the arbitration hearing on the merits.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "EXCEPT AS SPECIFICALLY SET FORTH IN THIS IP AGREEMENT OR ANOTHER TRANSACTION AGREEMENT, NEITHER PARTY (NOR ANY MEMBER OF ITS GROUP OR ANY OF ITS AFFILIATES) MAKES ANY REPRESENTATION OR WARRANTY, EXPRESS OR IMPLIED, AS TO ANY MATTER WHATSOEVER RELATING TO ANY INTELLECTUAL PROPERTY ASSIGNED OR LICENSED BY ANY OF THEM TO THE OTHER PARTY (OR ANY MEMBER OF THE OTHER PARTY'S GROUP OR ANY OF ITS AFFILIATES), IN EACH CASE INCLUDING ITS CONDITION, ITS MERCHANTABILITY, ITS FITNESS FOR ANY PARTICULAR PURPOSE, OR TITLE OR NON- INFRINGEMENT.",
+      "confidence": "high"
+    }
+  },
+  {
+    "contract_id": "Zounds Hearing, Inc. - MANUFACTURING DESIGN MARKETING AGREEMENT",
+    "summary": "The Manufacturing, Design, and Marketing Agreement establishes a partnership between Zounds Hearing, Inc. (Subcontractor) and InnerScope Hearing Technologies, Inc. (Manufacturer) for the design, manufacturing, and marketing of hearing aids and related products. The Subcontractor is responsible for providing manufacturing and supply chain services, while the Manufacturer must pay a Technology Access Fee of $1,000,000 and manage purchase orders for products. Notable risks include non-cancellable orders and potential penalties for termination without cause, where the Manufacturer may incur cancellation charges. The Subcontractor disclaims all warranties related to nonconforming products, placing liability for warranty costs on the Manufacturer. Additionally, both parties must comply with regulatory requirements, and any breach of confidentiality may lead to injunctive relief. The agreement includes provisions for joint marketing efforts and limits liability for consequential damages.",
+    "termination_clause": {
+      "found": true,
+      "text": "Either Party may terminate this Agreement and either may terminate a purchase order, effective upon written notice in any of the following events: (a) the other Party materially breaches this Agreement and such breach remains uncured for thirty (30) days following written notice of breach to the breaching Party; (b) the other Party (i) voluntarily suspends transaction of business; (ii) becomes insolvent or unable to pay any indebtedness as it matures; (iii) commences a voluntary case in bankruptcy or a voluntary petition seeking reorganization or to effect a plan or other arrangement with creditors; (iv) makes an assignment for the benefit of creditors; (v) applies for or consents to the appointment of a receiver or trustee for it or for any substantial portion of its property; (vi) makes an assignment to an agent authorized to liquidate any substantial part of its assets; (vii) has an involuntary case commenced against it with any court or other authority seeking liquidations, reorganization or a creditor's arrangement; (viii) by an order of any court or other authority, has appointed any receiver of trustee for it or for any substantial portion of its property; or (ix) has a writ or warranty of attachment or any petition seeking liquidation, reorganization or a creditor's arrangement or such order appointing a receiver or trustee is not vacated or stayed, or such writ, warranty of attachment or similar process is not vacated, released or bonded off within thirty (30) days after its entry or levy.",
+      "confidence": "high"
+    },
+    "confidentiality_clause": {
+      "found": true,
+      "text": "Both Parties shall use commercially reasonable efforts to keep confidential (a) the existence and terms of this Agreement and all information concerning the unit number and fees for Manufacturer's Products and inventory, and (b) any and all information concerning customers, suppliers, trade secrets, methods, processes or procedures and any other confidential, financial and business information of the other Party that is marked \"Confidential\" or the like or, if delivered verbally, confirmed in writing to be \"Confidential\" within thirty (30) days of the initial disclosure (\"Confidential Information\") with the same standard of care as it uses for its own Confidential Information.",
+      "confidence": "high"
+    },
+    "liability_clause": {
+      "found": true,
+      "text": "IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY \"COVER\" DAMAGES (INCLUDING INTERNAL COVER DAMAGES WHICH THE PARTIES AGREE MAY NOT BE CONSIDERED DIRECT DAMAGES), OR ANY INCIDENTAL, CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES OF ANY KIND OR NATURE ARISING OUT OF THIS AGREEMENT OR THE SALE OF MANUFACTURER'S PRODUCTS, WHETHER SUCH LIABILITY IS ASSERTED ON THE BASIS OF CONTRACT, TORT (INCLUDING THE POSSIBILITY OF NEGLIGENCE OR STRICT LIABILITY), OR OTHERWISE, EVEN IF THE PARTY HAS BEEN WARNED OF THE POSSIBILITY OF ANY SUCH LOSS OR DAMAGE, AND EVEN IF ANY OF THE LIMITED REMEDIES IN THIS AGREEMENT FAIL OF THEIR ESSENTIAL PURPOSE.",
+      "confidence": "high"
+    }
+  }
+]

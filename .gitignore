@@ -1,0 +1,27 @@
+
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+
+myenv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Vector DB created by the bonus semantic search feature
+chroma_db/
+
+
+data/CUAD_v1.json
+data/train_separate_questions.json
+data/test.json
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
